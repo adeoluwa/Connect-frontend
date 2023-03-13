@@ -14,7 +14,7 @@ const LoginPage = () => {
         textAlign="center"
       >
         <Typography fontWeight="bold" fontSize="32px" color="primary">
-          Futa Connect
+           Connect.
         </Typography>
       </Box>
 
@@ -26,7 +26,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography fontWeight="500" variant="h5" sx={{mb: "1.5rem"}} >
-          Welcome to Futa Connect, the Social media for Futarians
+          Welcome to Connect, the Social media for Students.
         </Typography>
         <Form />
       </Box>
